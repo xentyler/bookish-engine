@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+## Self Assessment
+I started SNHU very nervously.. I knew i wanted to become a Software Engineer by the age of 6. But i hated school. I thought i couldnt do it. Fast forward to 2020 during Covid when the world shut down i had to start my Physics classes and i was insanely scared. I didnt think i could do it, i thought i was going to fail out of school with this and not be able to live my dream. Fast forward 8 weeks and i pass the class with a B. It was such a fun class. I told myself if i could get through that then nothing will stop me. Few years later i am at the end of my Bachelors degree and now have a interview with the NSA as a Cyber Security Engineer. Crazy how things happen.
+
+## Reflection
+During my 4 years here i learned amazing skills and found new strengths within me. I learned that if i could put my mind to it, i can make it happen. My CS330 class was insanely hard. I failed but i am currently taking it and im understanding it so much more and actually passing it! This shown me how to be a better coder and actually take pride in very complicated projects because the end result is so rewarding. 
+
+## Summary
+The artifacts i chose for this class was my first coding project ever and one of the most recents i did outside of school. The first one is a very simple project and the last one i did was more complex. The more complex one allowed me to freely show my skills ive obtained from school and dedication from hard work outside of classes. With what i learned these past 3 years i can confidently say i am ready to get my career started.
+
+
+
 Week One - 
 [Report (7) (1).docx](https://github.com/xentyler/bookish-engine/files/8997481/Report.7.1.docx)
 
